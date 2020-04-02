@@ -281,7 +281,6 @@ struct diff_options {
 	int show_rename_progress;
 	int dirstat_permille;
 	int setup;
-	int skip_batch_download_objects;
 
 	/* Number of hexdigits to abbreviate raw format output to. */
 	int abbrev;
